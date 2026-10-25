@@ -1,0 +1,7 @@
+/build/
+/build-*/
+/dist/
+/test-data/
+/backups/
+/third_party/*.zip
+*.user
